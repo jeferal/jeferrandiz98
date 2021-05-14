@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://github.com/jeferrandiz98/jeferrandiz98blob/master/readme_header.png?raw=true)
+![alt text](https://github.com/jeferrandiz98/jeferrandiz98/blob/main/readme_header.png?raw=true)
 
 <!--
 **jeferrandiz98/jeferrandiz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
