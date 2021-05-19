@@ -1,7 +1,7 @@
 # echo $(whoami) > readme
 ![Personal header](https://github.com/jeferrandiz98/jeferrandiz98/blob/main/readme_header.png?raw=true)
 
-I'm a Robotics Engineer with a passion for all its technical disciplines, such as artificial intelligence, computer vision (yes, my profile picture is a sobelised Nemo), embedded systems, robot navigation and manipulation.
+I'm a Robotics Engineer with a passion for all its technical disciplines, such as artificial intelligence, computer vision (yes, my profile picture is a sobelized Nemo), embedded systems, robot navigation and manipulation.
 
 In this profile I keep the code of my personal projects.
 
