@@ -3,8 +3,6 @@
 
 I'm a Robotics Engineer with a passion for all its technical disciplines, such as artificial intelligence, computer vision, embedded systems, robot navigation and manipulation.
 
-In this profile I keep the code of my personal projects.
-
 <!--
 **jeferrandiz98/jeferrandiz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
